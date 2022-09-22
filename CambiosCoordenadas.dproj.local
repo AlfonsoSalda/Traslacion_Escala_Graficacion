@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/21 20:32:52.000.053,=D:\Documentos\BUAP ESCUELA\SEMESTRE 4\Graficacion\Proyectos\Unit1.pas</Transaction>
+    <Transaction>2022/09/21 20:42:16.000.456,D:\Documentos\BUAP ESCUELA\SEMESTRE 4\Graficacion\Proyectos\Unit1.dfm=D:\Documentos\BUAP ESCUELA\SEMESTRE 4\Graficacion\Proyectos\Cambios\Cambios.dfm</Transaction>
+    <Transaction>2022/09/21 20:42:16.000.456,D:\Documentos\BUAP ESCUELA\SEMESTRE 4\Graficacion\Proyectos\Unit1.pas=D:\Documentos\BUAP ESCUELA\SEMESTRE 4\Graficacion\Proyectos\Cambios\Cambios.pas</Transaction>
+    <Transaction>2022/09/21 20:45:26.000.605,D:\Documentos\BUAP ESCUELA\SEMESTRE 4\Graficacion\Proyectos\Project1.dproj=D:\Documentos\BUAP ESCUELA\SEMESTRE 4\Graficacion\Proyectos\Cambios\CambiosCoordenadas.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
